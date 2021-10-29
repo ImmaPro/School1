@@ -1,0 +1,40 @@
+<html>
+<head>
+<title> Chickens </title>
+</head>
+
+<body>
+<header>
+<h1>Chickens</h1>
+
+<!--Chicken Pictures-->
+<ol>
+<li><img src="http://henhouseonmaple.com/wp-content/uploads/2021/07/Millie-1.jpeg" alt="Millie"/></li>
+<li><img src="https://henhouseonmaple.com/wp-content/uploads/2021/07/Kevin.jpeg" alt="Kevin"/></li>
+<li><img src="https://henhouseonmaple.com/wp-content/uploads/2021/07/Maizy-1.jpeg" alt="Maizy"/></li>
+<li><img src="https://henhouseonmaple.com/wp-content/uploads/2021/07/Bebe.jpeg" alt=Bebe"/></li>
+<li><img src="http://henhouseonmaple.com/wp-content/uploads/2021/09/Oldive-768x1024.jpeg"alt="Olive"/></li>
+<li><img src="https://henhouseonmaple.com/wp-content/uploads/2021/07/dottie-2.jpeg" alt="Dottie"/></li>
+<li><img src="https://henhouseonmaple.com/wp-content/uploads/2021/07/maran-2.jpeg" alt="Maren"/</li>
+<li><img src="https://henhouseonmaple.com/wp-content/uploads/2021/07/charlotte-2.jpeg" alt="Charlotte"/></li>
+<li><img src="http://henhouseonmaple.com/wp-content/uploads/2021/08/Darla-1-768x1024.jpeg" alt="Darla"/></li>
+<li><img src="http://henhouseonmaple.com/wp-content/uploads/2021/09/Birdie-768x1024.jpeg" alt="Birdie"/></li>
+</ol>
+<!--End of Chicken Pictures-->
+<h2> Names </h2>
+<ol>
+  <li>Millie</li>
+  <li>Kevin</li>
+  <li>Maizy</li>
+  <li>Bebe</li>
+  <li>Olive</li>
+  <li>Dottie</li>
+  <li>Maren</li>
+  <li>Charlotte</li>
+  <li>Darla</li>
+  <li>Birdie</li>
+</ol>
+
+<h1><a href="https://henhouseonmaple.com">Website</a></h1>
+</body>
+</html>
